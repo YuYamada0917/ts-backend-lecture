@@ -3,7 +3,7 @@
 ### 1. 今日のゴール  
 - **静的型付けの“感覚”を掴む**  
 - **基本型・複合型・ユニオン型・ジェネリクスを使って簡単なモデルを書ける**  
-- **PythonコードをTypeScriptに書き直してみて、型エラーを自分で潰せる** citeturn1file1  
+- **PythonコードをTypeScriptに書き直してみて、型エラーを自分で潰せる** 
 
 ---
 
@@ -116,4 +116,4 @@ def first(arr: List[T]) -> Optional[T]:
 
 - TypeScript公式ハンドブック *The Basics* / *Everyday Types*  
 - Medium: *TypeScript for Python Developers*  
-- Qiita: *TypeScript基礎まとめ* (日本語での概要整理) citeturn1file5  
+- Qiita: *TypeScript基礎まとめ* (日本語での概要整理) 
